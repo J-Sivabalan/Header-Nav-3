@@ -1,0 +1,51 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+  }
+  nav{
+    display: flex;
+    height: 50px;
+    padding: 0px 20px;
+    align-items: center;
+    background-color: rgb(20, 170, 207);
+    color: aliceblue;
+  }
+  h2{
+    margin-left: 7px;
+  }
+  .logo{
+    font-family:monospace;
+  }
+  .list ul{
+    display: flex;
+    margin-left: 700px;
+    
+  }
+  .list ul li{
+    display: flex;
+    list-style: none;
+    padding: 0px 20px;
+    font-family: cursive;
+  }
+  button{
+    background-color: rgb(87, 87, 187);
+    color: aliceblue;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 10px;
+    font-weight: bold;
+    text-align: center;
+    
+  }
+  .soc_logo ul{
+    display: flex;
+  }
+  .soc_logo ul li
+  {
+    align-items: center;
+    list-style: none;
+    padding: 10px;
+    margin-top: 2%;
+  }
+  
